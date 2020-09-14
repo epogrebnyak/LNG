@@ -13,13 +13,12 @@ Link to LNG market data
 
 - https://comtrade.un.org/data/ (HS code `271111`)
 
-### Other links
-
-Transport models and visualisation:
+### Transport models and visualisation
 
 - https://small-lng.com/live-map-small-lng-carriers/
 - https://www.bcg.com/industries/energy/oil-gas/lng-cargo-tracker
 
-Consultancies:
+### Consultancies
 
 - https://www.rystadenergy.com/energy-themes/commodity-markets/gas-lng/gas-market-cube/
+- https://rekk.hu/modeling/gas-market-modeling
