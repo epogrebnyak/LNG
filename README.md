@@ -1,10 +1,17 @@
 # LNG
-Link to LNG data: fleet, positions
+Link to LNG market data
 
-###  Core data
+### Reports
+
+- [Fleet (IGU)](https://igu.org/app/uploads-wp/2020/04/2020-World-LNG-Report.pdf)
+
+###  Fleet and routes
 
 - [Vessels (MT)](https://www.marinetraffic.com/en/data/?asset_type=vessels)
-- [Fleet (IGU)](https://igu.org/app/uploads-wp/2020/04/2020-World-LNG-Report.pdf)
+
+## Trade flows
+
+- https://comtrade.un.org/data/ (HS code `271111`)
 
 ### Other links
 
