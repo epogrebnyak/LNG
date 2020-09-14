@@ -8,6 +8,11 @@ Link to LNG data: fleet, positions
 
 ### Other links
 
+Transport models and visualisation:
+
 - https://small-lng.com/live-map-small-lng-carriers/
 - https://www.bcg.com/industries/energy/oil-gas/lng-cargo-tracker
 
+Consultancies:
+
+- https://www.rystadenergy.com/energy-themes/commodity-markets/gas-lng/gas-market-cube/
